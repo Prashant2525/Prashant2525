@@ -1,4 +1,4 @@
-![github-header-image](https://camo.githubusercontent.com/9f5aca3410b502b0e67c68c1d1689f31744344efb953763578467959eff369ed/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a474e464e665f5637726a5f4332595543655a4e7a73772e6a706567)
+![github_head_final](https://github.com/Prashant2525/Prashant2525/assets/85235769/d57f09d0-a3e7-4069-96c2-a6208bd33881)
 
 
 <h1 align="center">Hi 👋, I'm Prashant Dhimal</h1>
