@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhimalprashant25@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **My code works... after I threaten it with print statements.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
